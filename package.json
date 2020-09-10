@@ -65,7 +65,8 @@
 			"api/i18n/*",
 			"api/pageBuilder",
 			"api/security/*",
-			"api/settingsManager"
+			"api/settingsManager",
+			"api/books"
 		]
 	},
 	"scripts": {
